@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Visual Color",
     "version": "0.0.1",
-    "description": "A simple Chrome plugin",
+    "description": "A chrome extension that helps you quickly preview and pick any valid html color code.",
     "icons": {
         "16": "icons/icon16.png",
         "48": "icons/icon48.png",
