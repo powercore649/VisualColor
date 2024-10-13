@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "inter-dev Visual Color",
-    "version": "0.0.1",
+    "version": "0.0.1 (beta 1)",
     "description": "A chrome extension that helps you quickly preview and pick any valid html color code. create by inter-dev",
     "icons": {
         "16": "icons/icon16.png",
